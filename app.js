@@ -21,31 +21,31 @@ app.get("/bacheca", (req, res) => {
     {
       name: "Ciambellone",
       description: "un ciambellone",
-      img: "/img/ciambellone.jpg",
+      img: "/img/ciambellone.jpeg",
       tags: "ciambella",
     },
     {
       name: "Cracker alla Barbabietola",
       description: "Dei crackers alla barbabietola",
-      img: "/img/cracker_barbabietola.jpg",
+      img: "/img/cracker_barbabietola.jpeg",
       tags: "cracker, barbabietola",
     },
     {
       name: "Pane Fritto Dolce",
       description: "Del pane fritto dolce",
-      img: "/img/pane_fritto_dolce.jpg",
+      img: "/img/pane_fritto_dolce.jpeg",
       tags: "pane, fritto, dolce",
     },
     {
       name: "Pasta alle Barbabietole",
       description: "Della pasta alla barbabietola",
-      img: "/img/pasta_barbabietola.jpg",
+      img: "/img/pasta_barbabietola.jpeg",
       tags: "pasta, barbabietola",
     },
     {
       name: "Torta Paesana",
       description: "Della Torta paesana",
-      img: "/img/torta_paesana.jpg",
+      img: "/img/torta_paesana.jpeg",
       tags: "torta, paesana",
     },
   ];
